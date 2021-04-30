@@ -73,7 +73,7 @@ def Center(origin_img, save_img):
 
 if __name__ == '__main__':
     # test_dir = './301jpg2'
-    test_dir = 'G:/Brain_tumor/301samp_后20_jpg'
+    test_dir = 'G:\Brain_tumor\other_jpg'
 
 
     test_dir_list = []

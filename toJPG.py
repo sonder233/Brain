@@ -25,8 +25,8 @@ def save_fig(niifilepath, savepath):  # 保存为图片
 
 
 if __name__ == '__main__':
-    savepath = r'G:\Brain_tumor\other_jpg'
-    test_dir = r'G:\Brain_tumor\other'
+    savepath = r'G:\Brain_tumor\301配准完毕\301registration_jpg'
+    test_dir = r'G:\Brain_tumor\301配准完毕\301registration'
     
 
     test_dir_list = []
